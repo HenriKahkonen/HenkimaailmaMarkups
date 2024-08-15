@@ -21,15 +21,15 @@
     </update>
 
     <update title="Real Life Loot" date="2023-04-14">
-        <li>Projekteihin lisätty  <Link to="../posts/reallifeloot">sivu 3D-mallinnuksille "Real Life Loot"</Link></li>
+        <li>Projekteihin lisätty  <a href="../posts/reallifeloot">sivu 3D-mallinnuksille "Real Life Loot"</a></li>
         <li>Metasivu yksinkertaistettu, tukee nyt myös linkkejä</li>
     </update>
 
     <update title="Nettisivun kokonaisvaltainen harjaus" date="2023-08-28">
         <li>Nettisivun CSS uudistettu nätimmäksiu ja frontin koodia despaghettifioitu</li>
-        <li>Blog ja arviot sulautettu -> <a href="../posts">/posts</a></li>
-        <li><a href="..posts/musavlog-drumrack">"SnS4: Rumpusampleja"</a></li>
-        <li><a href="..levyraati">Levyraati</a> nyt omana sivunaan</li>
+        <li>Blog ja arviot sulautettu <a href="../posts">/posts</a></li>
+        <li><a href="..posts/musavlog-drumrack">SnS4: Rumpusampleja</a></li>
+        <li><a href="..levyraati/">Levyraati</a> nyt omana sivunaan</li>
         <li><a href="..posts/reallifeloot">Real Life Loottiin</a> lisätty pari esinettä jotka unohtuneet lisätä aiemmin</li>
     </update>
 
@@ -38,7 +38,7 @@
     </update>
 
     <update title="Levyraatifiksailua" date="2023-10-10">
-        <li>Päivitys <a href="..levyraati">levyraadin</a> toimintaan: Jives ymmärtää nyt myös spotifyn lyhennettyjä linkkejä (mobiili)</li>
+        <li>Päivitys <a href="..levyraati/">levyraadin</a> toimintaan: Jives ymmärtää nyt myös spotifyn lyhennettyjä linkkejä (mobiili)</li>
         <li>Saitin footerin linkkejä päivitetty</li>
     </update>
 
