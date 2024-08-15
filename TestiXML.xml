@@ -9,15 +9,15 @@
     <update title="Siistintää + Käärijävideo" date="2023-03-28">
             <li>Sivupalkin (navigaatio) järjestystä muutettu</li>
             <li>CSS Yksinkertaistettu kautta linjan ja luettavuutta mobiililaitteilla parannettu hiukan (lisämuutoksia todnäk vielä edessä) </li>
-            <li>Lisätty <Link to="../posts/cha-cha-cha-plagiarismi">Käärijä-video ja uusi projektisivu musa-aiheisille YouTube-jutuille</Link></li>
-            <li><Link to="../levyraati">Discord-levyraatiin</Link> lisätty filtteri: jos levyä ei ole vielä arvosteltu ei se näy levyjen listassa (ennen näkyi listan perällä, arvosanana 0)</li>
-            <li><Link to="../levyraati/docs">Jivesin dokumentaatiota</Link> päivitetty ajankohtaisemmaksi</li>
+            <li>Lisätty <a href="../posts/cha-cha-cha-plagiarismi">Käärijä-video ja uusi projektisivu musa-aiheisille YouTube-jutuille</a></li>
+            <li><a href="../levyraati">Discord-levyraatiin</a> lisätty filtteri: jos levyä ei ole vielä arvosteltu ei se näy levyjen listassa (ennen näkyi listan perällä, arvosanana 0)</li>
+            <li><a href="../levyraati/docs">Jivesin dokumentaatiota</a> päivitetty ajankohtaisemmaksi</li>
     </update>
 
     <update title="iPod-aikakapseli ja SnS-samplepack" date="2023-04-03">
         <li>Projekteihin lisätty löytynyt <Link to="../posts/ipod-aikakapseli">iPod-aikakapselin tallenne</Link></li>
-        <li><Link to="../posts/sns-samplepack">SnS -samplepaketti</Link> lisätty projekteihin</li>
-        <li>Blog: <Link to="../posts/hyvat-ja-huonot-teatteriesitykset">"Hyvät ja huonot teatterijutut"</Link></li>
+        <li><a href="../posts/sns-samplepack">SnS -samplepaketti</a> lisätty projekteihin</li>
+        <li>Blog: <a href="../posts/hyvat-ja-huonot-teatteriesitykset">"Hyvät ja huonot teatterijutut"</a></li>
     </update>
 
     <update title="Testi parserille" date="2024-05-23">
