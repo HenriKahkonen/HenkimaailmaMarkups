@@ -28,40 +28,40 @@
     <update title="Nettisivun kokonaisvaltainen harjaus" date="2023-08-28">
         <li>Nettisivun CSS uudistettu nätimmäksiu ja frontin koodia despaghettifioitu</li>
         <li>Blog ja arviot sulautettu <a href="../posts">/posts</a></li>
-        <li><a href="..posts/musavlog-drumrack">SnS4: Rumpusampleja</a></li>
-        <li><a href="..levyraati/">Levyraati</a> nyt omana sivunaan</li>
-        <li><a href="..posts/reallifeloot">Real Life Loottiin</a> lisätty pari esinettä jotka unohtuneet lisätä aiemmin</li>
+        <li><a href="../posts/musavlog-drumrack">SnS4: Rumpusampleja</a></li>
+        <li><a href="../levyraati/">Levyraati</a> nyt omana sivunaan</li>
+        <li><a href="../posts/reallifeloot">Real Life Loottiin</a> lisätty pari esinettä jotka unohtuneet lisätä aiemmin</li>
     </update>
 
     <update title="Lailasta Almaan -arvio" date="2023-09-14">
-        <li><a href="..posts/arvio-lailasta-almaan">Video:</a> kirja-arvio - Lailasta Almaan</li>
+        <li><a href="../posts/arvio-lailasta-almaan">Video:</a> kirja-arvio - Lailasta Almaan</li>
     </update>
 
     <update title="Levyraatifiksailua" date="2023-10-10">
-        <li>Päivitys <a href="..levyraati/">levyraadin</a> toimintaan: Jives ymmärtää nyt myös spotifyn lyhennettyjä linkkejä (mobiili)</li>
+        <li>Päivitys <a href="../levyraati/">levyraadin</a> toimintaan: Jives ymmärtää nyt myös spotifyn lyhennettyjä linkkejä (mobiili)</li>
         <li>Saitin footerin linkkejä päivitetty</li>
     </update>
 
     <update title="Suomipelit-video" date="2023-12-06">
-        <li><a href="..posts/peliarviot/suomalaiset-freewarepelit">Uusi video</a> Suomalaisista ilmaispeleistä</li>
+        <li><a href="../posts/peliarviot/suomalaiset-freewarepelit">Uusi video</a> Suomalaisista ilmaispeleistä</li>
     </update>
 
     <update title="Suomipelit pt2" date="2023-12-18">
-        <li><a href="..posts/peliarviot/suomalaiset-freewarepelit-pt2">Video:</a> jatkoa aiemmalle keskustelulle suomalaisista freewarepeleistä</li>
+        <li><a href="../posts/peliarviot/suomalaiset-freewarepelit-pt2">Video:</a> jatkoa aiemmalle keskustelulle suomalaisista freewarepeleistä</li>
     </update>
 
     <update title="Rogue Legacy 2 -arvio" date="2024-1-4">
-        <li><a href="..posts/peliarviot/rogue-legacy-2">Arvio</a>: Rogue Legacy 2</li>
-        <li>Tunkattu <a href="..posts/peliarviot">peliarviosivun</a> navigaatio ja CSS</li>
+        <li><a href="../posts/peliarviot/rogue-legacy-2">Arvio</a>: Rogue Legacy 2</li>
+        <li>Tunkattu <a href="../posts/peliarviot">peliarviosivun</a> navigaatio ja CSS</li>
     </update>
 
     <update title="UMK -reaktiot ja konepellin alla kikkailua" date="2024-3-11">
-        <li><a href="..posts/umk2024-tier-list">Video</a>: UMK2024 tier list lisätty</li>
+        <li><a href="../posts/umk2024-tier-list">Video</a>: UMK2024 tier list lisätty</li>
         <li>Eräs vanha Jives-bugi fiksattu</li>
     </update>
 
     <update title="W95Man-analyysivideo" date="2024-4-12">
-        <li><a href="..posts/analyysi-no-rules">Video</a>: W95Man-analyysi lisätty</li>
+        <li><a href="../posts/analyysi-no-rules">Video</a>: W95Man-analyysi lisätty</li>
     </update>
 
     <update title="Mainoksia, hahaa" date="2024-5-22">
@@ -71,6 +71,7 @@
 
     <update title="Changelog -sivun päivitystä" date="2024-8-15">
         <li>Changelog fetchaa nyt päivityksensä muualta sen sijaan, että ne kirjoitettaisiin suoraan nettisivun fronttiin</li>
+        <li>Levyraadin CSS fiksailtu (long overdue!)</li>
     </update>
     
 </changelog>
