@@ -1,5 +1,3 @@
-
-
 {"peliarviot":[
     {
         "id": "pa1",
@@ -106,55 +104,58 @@
         "tags": ["Vlog","Musiikkituotanto","Haasteet"],
         "ytid" : "7EBasiMtlDc",
         "desc": "Musavlog: Millaista oli tehdä 'It Always Forgets'."
-    },
-    {
-        "id": "v2",
-        "title": "VLOG: Tehdään rumpusampler akustisesta rumpusetistä",
-        "url": "musavlog-drumrack",
-        "date": "2023-08-28T19:30:00Z",
-        "tags": ["Vlog","Musiikkituotanto"],
-        "ytid" : "7z3H__umOL4",
-        "desc": "Musavlog SnS4-samplepäkistä."
     }
     ],
 
-    "muu kritiikki":[
-    {
-        "id": "v2",
-        "title": "Vastine Käärijän Cha Cha Cha -plagiointikeskusteluun",
-        "url": "cha-cha-cha-plagiarismi",
-        "date": "2023-03-28T16:00:00Z",
-        "tags": ["Musiikkianalyysi","Kritiikki","Musiikkitiede","Tekijänoikeus"],
-        "ytid" : "Vw29QZb4_Ng",
-        "desc": "Onko Cha Cha Cha plagiaatti?"
-    },
-
-    {
-        "id": "v4",
-        "title": "Kirja-arvio: Lailasta Almaan",
-        "url": "arvio-lailasta-almaan",
-        "date": "2023-09-14T16:00:00Z",
-        "tags": ["Musiikkitiede","Kritiikki"],
-        "ytid" : "UF2ZfvKXO3I",
-        "desc": "Ajatukseni Lailasta-Almaan -kirjan vahvuuksista ja heikkouksista."
-    },
-    {
-        "id": "v5",
-        "title": "UMK2024 Tier List",
-        "url": "umk2024-tier-list",
-        "date": "2024-02-10T16:00:00Z",
-        "tags": ["Musiikki","UMK","Euroviisut"],
-        "ytid" : "NBcTaj2i2R4",
-        "desc": "Löysin rantein ajatuksia vuoden 2024 Uuden Musiikin Kilpailu -kandidaateista."
-    },
-    {
-        "id": "v6",
-        "title": "Tyhjentävä analyysi: Windows95Man - No Rules!",
-        "url": "analyysi-no-rules",
-        "date": "2024-04-12T16:00:00Z",
-        "tags": ["Musiikki","UMK","Euroviisut"],
-        "ytid" : "HMnRij_5_fU",
-        "desc": "Kriittinen luenta W95Manin euroviisukappaleesta ja puolustuspuheenvuoro humoristiselle taiteelle."
-    }
+    "euroviisut":[
+        {
+            "id": "ev2",
+            "title": "UMK2024 Tier List",
+            "url": "umk2024-tier-list",
+            "date": "2024-02-10T16:00:00Z",
+            "tags": ["Musiikki","UMK","Euroviisut"],
+            "ytid" : "NBcTaj2i2R4",
+            "desc": "Löysin rantein ajatuksia vuoden 2024 Uuden Musiikin Kilpailu -kandidaateista."
+        },
+        {
+            "id": "ev3",
+            "title": "Tyhjentävä analyysi: Windows95Man - No Rules!",
+            "url": "analyysi-no-rules",
+            "date": "2024-04-12T16:00:00Z",
+            "tags": ["Musiikki","UMK","Euroviisut"],
+            "ytid" : "HMnRij_5_fU",
+            "desc": "Kriittinen luenta W95Manin euroviisukappaleesta ja puolustuspuheenvuoro humoristiselle taiteelle."
+        },
+        {
+            "id": "ev1",
+            "title": "Vastine Käärijän Cha Cha Cha -plagiointikeskusteluun",
+            "url": "cha-cha-cha-plagiarismi",
+            "date": "2023-03-28T16:00:00Z",
+            "tags": ["Musiikkianalyysi","Kritiikki","Musiikkitiede","Tekijänoikeus"],
+            "ytid" : "Vw29QZb4_Ng",
+            "desc": "Onko Cha Cha Cha plagiaatti?"
+        }
+    ],
+    "muu video":[
+        {
+            "id": "v4",
+            "title": "Kirja-arvio: Lailasta Almaan",
+            "url": "arvio-lailasta-almaan",
+            "date": "2023-09-14T16:00:00Z",
+            "tags": ["Musiikkitiede","Kritiikki"],
+            "ytid" : "UF2ZfvKXO3I",
+            "desc": "Ajatukseni Lailasta-Almaan -kirjan vahvuuksista ja heikkouksista."
+        }
+    ],
+    "SnS":[
+        {
+            "id": "SnS1",
+            "title": "VLOG: Tehdään rumpusampler akustisesta rumpusetistä",
+            "url": "musavlog-drumrack",
+            "date": "2023-08-28T19:30:00Z",
+            "tags": ["Vlog","Musiikkituotanto"],
+            "ytid" : "7z3H__umOL4",
+            "desc": "Musavlog SnS4-samplepäkistä."
+        }
     ]
 }
