@@ -73,5 +73,15 @@
         <li>Changelog fetchaa nyt päivityksensä muualta sen sijaan, että ne kirjoitettaisiin suoraan nettisivun fronttiin</li>
         <li>Levyraadin CSS fiksailtu (long overdue!)</li>
     </update>
+
+    <update title="Sounds and Scapes -kokoelmia ja muita suuria muutoksia" date="2024-09-24">
+        <li>Etusivu korvattu entisellä posts-listauksella ilman filtteröintiä</li>
+        <li>Posts-sivu korvattu sivukartalla, missä on juttuja selkeämmin kategorisoituna</li>
+        <li>Levyraadin pisteformaatti muutettu prosenttimuotoiseksi, sillä muutamat ovat sekoittaneet vanhan 0-10 -asteikon kouluarvosanoihin</li>
+        <li>Uusia kuvakkeita ja kuvituksia piirrelty sivulle</li>
+        <li>Sounds and Scapes -äänikirjastoille luotu yksi aggregaattisivusto. Idea on että vanhoja kokoelmia voi tästedes myös päivittää.</li>
+        <li>Sounds and Scapes -kokoelmia päivitetty: SnS1 ja SnS2 uusia ääniä</li>
+        <li>Sounds and Scapes: 6 uutta kokoelmaa tai sampleria</li>
+    </update>
     
 </changelog>
