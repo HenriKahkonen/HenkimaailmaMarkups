@@ -92,6 +92,16 @@
         "tags": ["Roguelite", "Platformer"],
         "ytid" :"St_9QieihVA",
         "desc": "Cellar Door Gamesin tasoloikka-roguelite."
+    },
+    {
+        "id": "pa11",
+        "title": "Peliarvio: Tomb Raider (1996)",
+        "category": "Peliarviot",
+        "url": "tomb-raider",
+        "date": "2024-09-27T16:00:00Z",
+        "tags": ["Action", "Platformer","Klassikot","Seikkailu"],
+        "ytid" :"sHuq_FXebec",
+        "desc": "Videopelien tunnetuimman naisen debyyttiesiintyminen."
     }
     ],
 
