@@ -164,6 +164,15 @@
             "tags": ["Musiikkitiede","Kritiikki"],
             "ytid" : "UF2ZfvKXO3I",
             "desc": "Ajatukseni Lailasta-Almaan -kirjan vahvuuksista ja heikkouksista."
+        },
+        {
+            "id": "v5",
+            "title": "Lara Croft, seksismi ja kuolema",
+            "url": "lara-croft-seksismi-ja-kuolema",
+            "date": "2024-10-04T16:00:00Z",
+            "tags": ["Mediakritiikki","Seksismi","Väkivalta","Videopelit"],
+            "ytid" :"T3MnnFnGBvc",
+            "desc": "Kaksi senttiäni Lara Croftiin liitettyyn seksismikeskusteluun."
         }
     ]
 }
