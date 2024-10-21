@@ -102,6 +102,26 @@
         "tags": ["Action", "Platformer","Klassikot","Seikkailu"],
         "ytid" :"sHuq_FXebec",
         "desc": "Videopelien tunnetuimman naisen debyyttiesiintyminen."
+    },
+    {
+        "id": "pa12",
+        "title": "Peliarvio: Prison Architect",
+        "category": "Peliarviot",
+        "url": "prison-architect",
+        "date": "2024-10-11T16:00:00Z",
+        "tags": ["Strategia","Managerointi","Simulaatio"],
+        "ytid" :"FxmX_Hd6RZs",
+        "desc": "Rakennetaan ja manageroidaan vankilaa ja sen logistiikkaa!"
+    },
+    {
+        "id": "pa13",
+        "title": "Peliarvio: Armello",
+        "category": "Peliarviot",
+        "url": "prison-architect",
+        "date": "2024-10-11T18:00:00Z",
+        "tags": ["Digitaalinen lautapeli","Strategia","Indie","Kasuaali"],
+        "ytid" :"6fZJDWgw12g",
+        "desc": "Yksinkertainen on kaunista! Digitaalisen lautapelin konseptin parhaita toteutuksia."
     }
     ],
 
