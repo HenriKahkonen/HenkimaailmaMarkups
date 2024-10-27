@@ -118,10 +118,20 @@
         "title": "Peliarvio: Armello",
         "category": "Peliarviot",
         "url": "prison-architect",
-        "date": "2024-10-11T18:00:00Z",
+        "date": "2024-10-18T18:00:00Z",
         "tags": ["Digitaalinen lautapeli","Strategia","Indie","Kasuaali"],
         "ytid" :"6fZJDWgw12g",
         "desc": "Yksinkertainen on kaunista! Digitaalisen lautapelin konseptin parhaita toteutuksia."
+    },
+    {
+        "id": "pa14",
+        "title": "Peliarvio: Balatro",
+        "category": "Peliarviot",
+        "url": "balatro",
+        "date": "2024-10-25T17:30:00Z",
+        "tags": ["Strategia","Indie","Kasuaali","Korttipelit","Roguelite"],
+        "ytid" :"jg4QNnpYGvM",
+        "desc": "Pakanrakennuspeli, jonka pohjana toimii tavan korttipakka. Mahdottomia korttisarjoja ja pelin sääntöjä muuttavia jokerikortteja."
     }
     ],
 
