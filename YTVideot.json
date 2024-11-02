@@ -132,6 +132,16 @@
         "tags": ["Strategia","Indie","Kasuaali","Korttipelit","Roguelite"],
         "ytid" :"jg4QNnpYGvM",
         "desc": "Pakanrakennuspeli, jonka pohjana toimii tavan korttipakka. Mahdottomia korttisarjoja ja pelin sääntöjä muuttavia jokerikortteja."
+    },
+    {
+        "id": "pa15",
+        "title": "Peliarvio: SUPERHOT",
+        "category": "Peliarviot",
+        "url": "SUPERHOT",
+        "date": "2024-11-01T17:30:00Z",
+        "tags": ["Indie darling","Räiskintä","Filosofinen"],
+        "ytid" :"P4UjUu8g-Is",
+        "desc": "Räiskintäpeli, jossa aika etenee vain kun pelaaja liikkuu. Enemmän kuin miltä pintapuolisesti vaikuttaa."
     }
     ],
 
