@@ -117,7 +117,7 @@
         "id": "pa13",
         "title": "Peliarvio: Armello",
         "category": "Peliarviot",
-        "url": "prison-architect",
+        "url": "armello",
         "date": "2024-10-18T18:00:00Z",
         "tags": ["Digitaalinen lautapeli","Strategia","Indie","Kasuaali"],
         "ytid" :"6fZJDWgw12g",
@@ -213,6 +213,15 @@
             "tags": ["Mediakritiikki","Seksismi","Väkivalta","Videopelit"],
             "ytid" :"T3MnnFnGBvc",
             "desc": "Kaksi senttiäni Lara Croftiin liitettyyn seksismikeskusteluun."
+        },
+        {
+            "id": "v6",
+            "title": "Miksi Mummola on paras kotimainen elokuva vuodelta 2023",
+            "url": "mummola-arvio",
+            "date": "2024-11-08T11:00:00Z",
+            "tags": ["Mediakritiikki","Elokuva"],
+            "ytid" :"dkRWUUnnuKw",
+            "desc": "Mummolan ihmiskuvaus ja dialogi on tavallisuudessaan erittäin ihanaa."
         }
     ]
 }
