@@ -29,13 +29,13 @@
         },
         {
             "Name" : "Sounds and Scapes 2 - Places",
-            "DownloadLink" : "https://drive.google.com/file/d/14hcA1vm9oAYCDzHr6_Q74eJIzBmTXpN3/view?usp=sharing",
+            "DownloadLink" : "https://drive.google.com/file/d/1k781IqotmVU5D5Sb7RYxl9gID_IRPhL_/view?usp=sharing",
             "Img" : "https://i.imgur.com/Dejmoaw.png",
             "Date": "2023-04-03T16:00:00Z",
             "UpDated": "2024-09-23T16:00:00Z",
             "Desc": "Longer, loopable ambient sounds to be used in sound design.",
             "Licence": "CC0",
-            "FileListing" : ["Birdsong swallow loop.wav","Bus ride.wav","City Park.wav","Escalator 1 hum loop.wav","Escalator 2 chugging 95bpm.wav","Lakefront waves.wav","New Years' Rockets.wav","Night Near A River.wav","Nightly Birdlife.wav","Rain pattering loop.wav","Rapids Near.wav","Rotating fan loop.wav","Rural Nighttime with Mosquitoes.wav","Sauna fireplace loop.wav","Subway station loop (no trains).wav","Tram ride.wav","Water Mechanism hum loop.wav","Windy city ambiance loop.wav"
+            "FileListing" : ["Birdsong swallow loop.wav","Bus ride.wav","City Park.wav","Escalator 1 hum loop.wav","Escalator 2 chugging 95bpm.wav","Heavy rain loop.wav","Lakefront waves.wav","Mountain cabin wind.wav","New Years' Rockets.wav","Night Near A River.wav","Nightly Birdlife.wav","Rain pattering loop.wav","Rapids Near.wav","Rotating fan loop.wav","Rural Nighttime with Mosquitoes.wav","Sauna fireplace loop.wav","Subway ride loop.wav","Subway station loop (no trains).wav","Swimming Hall ambience.wav","Tram ride.wav","Water Mechanism hum loop.wav","Windy city ambiance loop.wav"
             ]
         },
         {
@@ -84,16 +84,16 @@
         },
         {
             "Name" : "Sounds and Scapes 7 - Percussion loops and chops",
-            "DownloadLink" : "https://drive.google.com/file/d/1OctL1fLA3-ztJ_vKRRUqclvYALPj9e8k/view?usp=sharing",
+            "DownloadLink" : "https://drive.google.com/file/d/1_LTh62xVr0jK7h3w6gKTbMqqEvX-1ri6/view?usp=sharing",
             "Img":"https://i.imgur.com/uFV2lg2.png",
             "Date": "2023-09-23T16:00:00Z",
             "Desc": "Different drum and percussion samples. Some are straightforwardly loopable: in these files the tempo is marked in the filename. Files named \"chops\" contain multiple samples of a single instrument. These samples are alternatively available pre-split into individual files.",
             "Licence":"CC0",
             "AltName" : "Sounds and Scapes 7b - Percussion chops as oneshots",
-            "AltDownloadLink" : "https://drive.google.com/file/d/1tDlbMLowqDxsYZwh0xi4rdb8iAJkmhgC/view?usp=sharing",
+            "AltDownloadLink" : "https://drive.google.com/file/d/1TU1S4SI5AQUPZHC8zIk8joO7cj17_5xO/view?usp=sharing",
             "AltImg" : "https://i.imgur.com/rICt8EK.png",
             "FileListing": [
-                "Bdrum 104bpm pattern.wav","Bdrum 109bpm pattern, piano.wav","Bdrum chops.wav","Brush sound chops.wav","Cabasa 103bpm.wav","Cabasa 110bpm.wav","Cabasa 114bpm shake.wav","Cabasa 114bpm shake2.wav","Cabasa 121bpm sleazy.wav","Cabasa 141bpm 2.wav","Cabasa 141bpm.wav","Cabasa chops.wav","Claves 98bpm.wav","Claves chops.wav","Drumkit rims chops.wav","Drumsticks 153bpm.wav","Drumsticks 97bpm.wav","Maracas chops.wav","Mbira as percussion chops.wav","Mbira percussive loop 102bpm.wav","Rain Stick 1.wav","Rain Stick 2.wav","Rain Stick 3.wav","Shaker 1 102bpm loop.wav","Shaker 1 102bpm loop2.wav","Shaker 1 102bpm loop3.wav","Shaker 1 111bpm loop with tail.wav","Shaker 1 113bpm loop.wav","Shaker 1 122bpm loop.wav","Shaker 1 145bpm loop.wav","Shaker 1 chops.wav","Shaker 1 rolls.wav","Shaker 2 98bpm loop.wav","Shaker 2 98bpm loop2.wav","Shaker 2 chops.wav","Shaker 3 101bpm loop.wav","Shaker 3 104bpm loop.wav","Shaker 3 chops.wav","Shaker 4 101bpm loop.wav","Shaker 4 103bpm loop.wav","Shaker 4 chops.wav","Snare brush chops.wav","Snare brush sweep loop 2.wav","Snare brush sweep loop.wav","Snare Ghost note chops.wav","Snare rim chops Alt.wav","Snare rim chops.wav","Snare rolling 2.wav","Snare, no mat chops.wav","Tambourine1 102bpm loop.wav","Tambourine1 103bpm loop soft.wav","Tambourine1 108bpm loop.wav","Tambourine1 74bpm loop.wav","Tambourine1 99bpm loop.wav","Tambourine1 99bpm loop2.wav","Tambourine1 chops.wav","Tambourine1 rolls.wav","Tambourine2 chops.wav","Tom, floor chops.wav","Tom, hi chops.wav"
+                "Agogo chops.wav","Bdrum 104bpm pattern.wav","Bdrum 109bpm pattern, piano.wav","Bdrum chops.wav","Brush sound chops.wav","Cabasa 103bpm.wav","Cabasa 110bpm.wav","Cabasa 114bpm shake.wav","Cabasa 114bpm shake2.wav","Cabasa 121bpm sleazy.wav","Cabasa 141bpm 2.wav","Cabasa 141bpm.wav","Cabasa chops.wav","Chestnuts chops.wav","Claves 98bpm.wav","Claves chops.wav","Cowbell chops.wav","Drumkit rims chops.wav","Drumsticks 153bpm.wav","Drumsticks 97bpm.wav","Maracas chops.wav","Mbira as percussion chops.wav","Mbira percussive loop 102bpm.wav","Rain Stick 1.wav","Rain Stick 2.wav","Rain Stick 3.wav","Shaker 1 102bpm loop.wav","Shaker 1 102bpm loop2.wav","Shaker 1 102bpm loop3.wav","Shaker 1 111bpm loop with tail.wav","Shaker 1 113bpm loop.wav","Shaker 1 122bpm loop.wav","Shaker 1 145bpm loop.wav","Shaker 1 chops.wav","Shaker 1 rolls.wav","Shaker 2 98bpm loop.wav","Shaker 2 98bpm loop2.wav","Shaker 2 chops.wav","Shaker 3 101bpm loop.wav","Shaker 3 104bpm loop.wav","Shaker 3 chops.wav","Shaker 4 101bpm loop.wav","Shaker 4 103bpm loop.wav","Shaker 4 chops.wav","Snare brush chops.wav","Snare brush sweep loop 2.wav","Snare brush sweep loop.wav","Snare Ghost note chops.wav","Snare rim chops Alt.wav","Snare rim chops.wav","Snare rolling 2.wav","Snare, no mat chops.wav","Tambourine1 102bpm loop.wav","Tambourine1 103bpm loop soft.wav","Tambourine1 108bpm loop.wav","Tambourine1 74bpm loop.wav","Tambourine1 99bpm loop.wav","Tambourine1 99bpm loop2.wav","Tambourine1 chops.wav","Tambourine1 rolls.wav","Tambourine2 chops.wav","Tom, floor chops.wav","Tom, hi chops.wav"
             ]
         },
         {
