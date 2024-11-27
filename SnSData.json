@@ -13,6 +13,13 @@
                 "Added new: Sns 9 - Melodica sampler",
                 "Added new: SnS 10 - Cajon sampler"
             ]
+        },
+        {
+            "Date": "2024-11-26T16:00:00Z",
+            "Contents" : [
+                "Added 4 sounds to SnS 2 - Places",
+                "Added agogo, cowbell and chestnuts samples to SnS 7"
+            ]
         }
     ],
     "Packs" : [
@@ -64,7 +71,7 @@
             "Name" : "Sounds and Scapes 5 - Mbira sampler",
             "DownloadLink" : "https://drive.google.com/file/d/1u_LYRbJtu6M8YpXUbFfwZ_QG-dwSskAc/view?usp=sharing",
             "Img":"https://i.imgur.com/sSTiIyM.png",
-            "Date": "2023-09-23T16:00:00Z",
+            "Date": "2024-09-23T16:00:00Z",
             "Desc": "An ableton sampler and a recording of notes played on a Mbira.",
             "Licence":"CC0",
             "FileListing": [
@@ -75,7 +82,7 @@
             "Name" : "Sounds and Scapes 6 - Ragged Xylopiano sampler",
             "DownloadLink" : "https://drive.google.com/file/d/1e3tsYS-gxWGQX22VmBUWUdakf_usSXJG/view?usp=sharing",
             "Img":"https://i.imgur.com/MerYt0q.png",
-            "Date": "2023-09-23T16:00:00Z",
+            "Date": "2024-09-23T16:00:00Z",
             "Desc": "An ableton sampler and recordings of a toy xylopiano with an interestingly haunting and crummy sound.",
             "Licence":"CC0",
             "FileListing": [
@@ -86,7 +93,7 @@
             "Name" : "Sounds and Scapes 7 - Percussion loops and chops",
             "DownloadLink" : "https://drive.google.com/file/d/1_LTh62xVr0jK7h3w6gKTbMqqEvX-1ri6/view?usp=sharing",
             "Img":"https://i.imgur.com/uFV2lg2.png",
-            "Date": "2023-09-23T16:00:00Z",
+            "Date": "2024-09-23T16:00:00Z",
             "Desc": "Different drum and percussion samples. Some are straightforwardly loopable: in these files the tempo is marked in the filename. Files named \"chops\" contain multiple samples of a single instrument. These samples are alternatively available pre-split into individual files.",
             "Licence":"CC0",
             "AltName" : "Sounds and Scapes 7b - Percussion chops as oneshots",
@@ -100,7 +107,7 @@
             "Name" : "Sounds and Scapes 8 - Cymbal samples",
             "DownloadLink" : "https://drive.google.com/file/d/1zspDKFOxpQ01jDjcVeUmKaY4jaVqAA6a/view?usp=sharing",
             "Img":"https://i.imgur.com/f8ZltMP.png",
-            "Date": "2023-09-23T16:00:00Z",
+            "Date": "2024-09-23T16:00:00Z",
             "Desc": "Different drum kit cymbal samples. Some are straightforwardly loopable patterns: in these files the tempo is marked in the filename. Files named \"chops\" contain multiple samples of a single instrument. These samples are alternatively available pre-split into individual files.",
             "Licence":"CC0",
             "AltName" : "Sounds and Scapes 8b - Cymbal samples as oneshots",
@@ -114,7 +121,7 @@
             "Name" : "Sounds and Scapes 9 - Melodica sampler",
             "DownloadLink" : "https://drive.google.com/file/d/1jxjNjb1lcQK4i0wRiNw_FWiDgSE9YqZN/view?usp=sharing",
             "Img":"https://i.imgur.com/jPedcaz.png",
-            "Date": "2023-09-23T16:00:00Z",
+            "Date": "2024-09-23T16:00:00Z",
             "Desc": "Sampler and individual samples of all the notes playable on my Startone melodica. Samples recorded in staccato and legato in two velocities. Samples are organized in the provided Ableton Sampler, where some timing issues in the samples are also corrected. In the sampler there are macro controls for sound manipulation.",
             "Licence":"CC0",
             "FileListing": [
@@ -125,11 +132,22 @@
             "Name" : "Sounds and Scapes 10 - Cajon sampler",
             "DownloadLink" : "https://drive.google.com/file/d/1XhnHnSGBSRxjIXzVgl4P0kzpz0dXfIDo/view?usp=sharing",
             "Img":"https://i.imgur.com/cQRJftD.png",
-            "Date": "2023-09-23T16:00:00Z",
+            "Date": "2024-09-23T16:00:00Z",
             "Desc": "Sampler and individual samples of different hits performed on a cajon drum. Provided is a sampler and individual samples recorded simultaneously with two microphones: a bass drum mic from the back of the cajon and a Zoom H5 handy recorder from the front of the drum. In the ableton sampler the samples are synced to single drum pads with the option to change the volume of both microphones individually.",
             "Licence":"CC0",
             "FileListing": [
                 "1 Kick p1.wav","10 Kick f2.wav","11 Kick p.wav","12 Kick p2.wav","13 Kick muted.wav","14 Kick muted.wav","15 Kick muted2.wav","16 Kick muted2.wav","17 Kick muted3.wav","18 Kick muted3.wav","19 Kick muted4.wav","2 Kick p2.wav","20 Kick muted4.wav","21 Kick muted5.wav","22 Kick muted5.wav","23 Snare p.wav","24 Snare p.wav","25 Snare mp.wav","26 Snare mp.wav","27 Snare f.wav","28 Snare f.wav","29 Snare ppp.wav","3 Kick mp-1.wav","30 Snare ppp.wav","31 Snare mute1.wav","32 Snare mute1.wav","33 Snare mute2.wav","34 Snare mute2.wav","35 Snare mute3.wav","36 Snare mute4.wav","37 Slap ppp.wav","38 Slap ppp.wav","39 Slap mf.wav","4 Kick mp-2.wav","40 Slap mf.wav","41 Slap pp.wav","42 Slap pp.wav","43 Slap p.wav","44 Slap p.wav","45 Slap mute 1.wav","46 Slap mute 1.wav","47 Slap mute 2.wav","48 Slap mute2.wav","49 Slap Mute3.wav","5 Kick thump 1.wav","50 Slap mute3.wav","51 Slap mute4.wav","52 Slap mute4.wav","53 Slap mute5.wav","54 Slap mute5.wav","55 Slap mute6.wav","56 Slap mute6.wav","57 Slap mute7.wav","58 Slap mute7.wav","59 Slap mute8.wav","6 Kick thump 2.wav","60 Slap mute8.wav","7 Kick thump f.wav","8 Kick thump f2.wav","9 Kick f1.wav"
+            ]
+        },
+        {
+            "Name" : "Sounds and Scapes 11 - Bongo sampler",
+            "DownloadLink" : "https://drive.google.com/file/d/1VV0SboR89tOGrq8xzgaCU9dJbLnlvq-q/view?usp=sharing",
+            "Img":"https://i.imgur.com/u1kVHmY.png",
+            "Date": "2024-11-27T12:00:00Z",
+            "Desc": "Sampler and individual samples of different hits performed on the bongos. Provided is a sampler where the samples are split into easily jammable launch pads with macro controls for individual sample selection.",
+            "Licence":"CC0",
+            "FileListing": [
+                "SnS 11 Bongo Sampler.alp","BngHi Ghost Chops.wav","BngHi Hit chops.wav","BngHi Rim chops.wav","BngHi roll.wav","BngHi samples","BngHi Soft Hits chops.wav","BngLo Ghost chops.wav","BngLo Hit chops.wav","BngLo Rim chops.wav","BngLo Rolls chops.wav","BngLo samples","BngLo Soft Hits chops.wav","BngHi Ghost-01.wav","BngHi Ghost-02.wav","BngHi Ghost-03.wav","BngHi Ghost-04.wav","BngHi Ghost-05.wav","BngHi Ghost-06.wav","BngHi Ghost-07.wav","BngHi Ghost-08.wav","BngHi Ghost-09.wav","BngHi Ghost-10.wav","BngHi Hit-01.wav","BngHi Hit-02.wav","BngHi Hit-03.wav","BngHi Hit-04.wav","BngHi Hit-05.wav","BngHi Hit-06.wav","BngHi Hit-07.wav","BngHi Hit-08.wav","BngHi Hit-09.wav","BngHi Hit-10.wav","BngHi Hit-11.wav","BngHi Hit-12.wav","BngHi Rim-01.wav","BngHi Rim-02.wav","BngHi Rim-03.wav","BngHi Rim-04.wav","BngHi Rim-05.wav","BngHi Rim-06.wav","BngHi Rim-07.wav","BngHi roll.wav","BngHi Soft-01.wav","BngHi Soft-02.wav","BngHi Soft-03.wav","BngHi Soft-04.wav","BngHi Soft-05.wav","BngHi Soft-06.wav","BngHi Soft-07.wav","BngHi Soft-08.wav","BngLo Ghost-01.wav","BngLo Ghost-02.wav","BngLo Ghost-03.wav","BngLo Ghost-04.wav","BngLo Ghost-05.wav","BngLo Ghost-06.wav","BngLo Ghost-07.wav","BngLo Ghost-08.wav","BngLo Ghost-09.wav","BngLo Ghost-10.wav","BngLo Ghost-11.wav","BngLo Ghost-12.wav","BngLo Ghost-13.wav","BngLo Ghost-14.wav","BngLo Ghost-15.wav","BngLo Ghost-16.wav","BngLo Ghost-17.wav","BngLo Ghost-18.wav","BngLo Hit-01.wav","BngLo Hit-02.wav","BngLo Hit-03.wav","BngLo Hit-04.wav","BngLo Hit-05.wav","BngLo Hit-06.wav","BngLo Hit-07.wav","BngLo Hit-08.wav","BngLo Hit-09.wav","BngLo Hit-10.wav","BngLo Rim-01.wav","BngLo Rim-02.wav","BngLo Rim-03.wav","BngLo Rim-04.wav","BngLo Rim-05.wav","BngLo Rim-06.wav","BngLo Rim-07.wav","BngLo Rim-08.wav","BngLo Roll-01.wav","BngLo Roll-02.wav","BngLo Soft-01.wav","BngLo Soft-02.wav","BngLo Soft-03.wav","BngLo Soft-04.wav","BngLo Soft-05.wav","BngLo Soft-06.wav","BngLo Soft-07.wav","BngLo Soft-08.wav","BngLo Soft-09.wav","BngLo Soft-10.wav"
             ]
         }
     ]
