@@ -222,6 +222,15 @@
             "tags": ["Mediakritiikki","Elokuva"],
             "ytid" :"dkRWUUnnuKw",
             "desc": "Mummolan ihmiskuvaus ja dialogi on tavallisuudessaan erittäin ihanaa."
+        },
+        {
+            "id": "v7",
+            "title": "Tuntematon Sotilas -elokuvat: The arvio",
+            "url": "tuntematon-sotilas-elokuvat-arvio",
+            "date": "2024-12-06T10:00:00Z",
+            "tags": ["Mediakritiikki","Elokuva"],
+            "ytid" :"lMoktBVnZeM",
+            "desc": "Väinö Linna -syksyni huipennus. Mikä Tuntematon -filmatisointi on paras?"
         }
     ]
 }
