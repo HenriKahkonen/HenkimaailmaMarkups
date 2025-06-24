@@ -154,15 +154,35 @@
         "ytid" :"_jTnRGY5RnQ",
         "desc": "Humoristinen, mutta toisteinen räiskintäläpsyttely 90-luvun klassikkostudio Apogeelta."
     },
-     {
+    {
         "id": "pa17",
         "title": "Peliarvio: The Ultimate Doom",
         "category": "Peliarviot",
         "url": "Doom",
         "date": "2025-06-06T16:00:00Z",
-        "tags": ["Boomer Shooter","Doom","Id Software","Doomkuu"],
+        "tags": ["Boomer Shooter","Doom","id Software","Doomkuu"],
         "ytid" :"5U-94kwhe-Q",
         "desc": "'Doomkuun' ensimmäinen etappi. Klassikkoräiskintä, ehkä kaikkien aikojen paras pc-peli."
+    },
+    {
+        "id": "pa18",
+        "title": "GZDoom tekee Doomista paremman",
+        "category": "Peliarviot",
+        "url": "GZDoom",
+        "date": "2025-06-13T16:00:00Z",
+        "tags": ["Doom","GZDoom","Doomkuu"],
+        "ytid" :"IwHi7aubTv4",
+        "desc": "Haluan levittää Doom-sourceporttien ilosanomaa. GZDoom mahdollistaa modernin WASD+hiiri -ohjauksen, pelin sääntöjen customointia ja paljon muuta."
+    },
+    {
+        "id": "pa19",
+        "title": "Peliarvio: Doom 2",
+        "category": "Peliarviot",
+        "url": "Doom2",
+        "date": "2025-06-20T16:00:00Z",
+        "tags": ["Doomkuu","Doom2","id Software"],
+        "ytid" :"hWate5F8h6M",
+        "desc": "Pienet muutokset elevoivat Doom 2:n alkuperäistä vieläkin täydellisemmäksi peliksi."
     }
     
     ],
