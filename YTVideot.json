@@ -183,13 +183,43 @@
         "tags": ["Doomkuu","Doom2","id Software"],
         "ytid" :"hWate5F8h6M",
         "desc": "Pienet muutokset elevoivat Doom 2:n alkuperäistä vieläkin täydellisemmäksi peliksi."
+    },
+    {
+        "id": "pa20",
+        "title": "Peliarvio: Walkscape (Beta)",
+        "category": "Peliarviot",
+        "url": "Walkscape-beta",
+        "date": "2025-07-11T16:00:00Z",
+        "tags": ["Mobiilipelit","Suomipelit"],
+        "ytid" :"0PVsPa8Lipk",
+        "desc": "Kännykkäroolipeli, jossa asioita tehdään tosimaailmassa kävelemällä."
+    },
+    {
+        "id": "pa21",
+        "title": "Peliarvio: Dead Space",
+        "category": "Peliarviot",
+        "url": "dead-space",
+        "date": "2025-07-25T16:00:00Z",
+        "tags": ["Kauhu","Toiminta"],
+        "ytid" :"cfXyweDZ11Q",
+        "desc": "Avaruudessa kukaan ei kuule kun huudat."
+    },
+    {
+        "id": "pa22",
+        "title": "Peliarvio: Crysis 2",
+        "category": "Peliarviot",
+        "url": "crysis2",
+        "date": "2025-08-01T16:00:00Z",
+        "tags": ["Toiminta","FPS","AAA"],
+        "ytid" :"zNRgx4umYc0",
+        "desc": "Malliesimerkki 2010-luvun taitteen ison budjetin ja suuren yleisön ääliöräiskinnästä."
     }
     
     ],
 
     "vlogit":[
     {
-        "id": "v1",
+        "id": "vlog1",
         "title": "VLOG: (Vain) Yksi sample -> yksi biisi",
         "url": "yksi-sample-yksi-biisi",
         "date": "2022-06-09T16:00:00Z",
@@ -198,13 +228,31 @@
         "desc": "Musavlog: Millaista oli tehdä 'It Always Forgets'."
     },
     {
-        "id": "SnS1",
+        "id": "vlog2",
         "title": "VLOG: Tehdään rumpusampler akustisesta rumpusetistä",
         "url": "musavlog-drumrack",
         "date": "2023-08-28T19:30:00Z",
         "tags": ["Vlog","Musiikkituotanto"],
         "ytid" : "7z3H__umOL4",
         "desc": "Musavlog SnS4-samplepäkistä."
+    },
+    {
+        "id": "vlog3",
+        "title": "VLOG: Kuinka ohjelmoin Doomiin liukuportaat",
+        "url": "liukuportaat-doomissa",
+        "date": "2025-06-27T16:00:00Z",
+        "tags": ["Vlog","Ohjelmointi"],
+        "ytid" : "_1Q1V4dFNUY",
+        "desc": "Yksinkertaisen efektin modaaminen vanhaan peliin saattaa vaatia yllättävän paljon ohjelmointia ja matematiikkaa."
+    },
+    {
+        "id": "vlog4",
+        "title": "VLOG: Piilomainostamisesta, KKV:sta ja kritiikistä",
+        "url": "kkv-vastine",
+        "date": "2025-07-15T16:00:00Z",
+        "tags": ["Vlog","KKV","Vaikuttajamarkkinointi","Kritiikki"],
+        "ytid" : "AW_VnYjUS40",
+        "desc": "Vastineeni KKV:n vaikuttajamarkkinoinnin linjaukseen taidekritiikin näkökulmasta."
     }
     ],
 
