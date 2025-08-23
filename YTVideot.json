@@ -213,6 +213,16 @@
         "tags": ["Toiminta","FPS","AAA"],
         "ytid" :"zNRgx4umYc0",
         "desc": "Malliesimerkki 2010-luvun taitteen ison budjetin ja suuren yleisön ääliöräiskinnästä."
+    },
+    {
+        "id": "pa23",
+        "title": "Peliarvio: Swords and Sandals Classic Collection",
+        "category": "Peliarviot",
+        "url": "swords-and-sandals",
+        "date": "2025-08-22T16:00:00Z",
+        "tags": ["Flash","Indie","Managerointi"],
+        "ytid" :"NnuHLBklVOE",
+        "desc": "7 2000-luvun homeisinta flash-peliä nyt uudelleenlämmitettynä!"
     }
     
     ],
