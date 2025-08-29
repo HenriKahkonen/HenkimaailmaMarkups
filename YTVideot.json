@@ -223,6 +223,16 @@
         "tags": ["Flash","Indie","Managerointi"],
         "ytid" :"NnuHLBklVOE",
         "desc": "7 2000-luvun homeisinta flash-peliä nyt uudelleenlämmitettynä!"
+    },
+    {
+        "id": "pa24",
+        "title": "Peliarvio: Alan Wake",
+        "category": "Peliarviot",
+        "url": "alan-wake",
+        "date": "2025-08-29T16:00:00Z",
+        "tags": ["Kauhu","Seikkailu","Suomalaiset pelit","Remedy Entertainment"],
+        "ytid" :"JPvPlxVm8U0",
+        "desc": "Kotimainen kauhuseikkailu, joka pohtii todella kiehtovalla tavalla taiteen ja taiteentekijöiden merkitystä"
     }
     
     ],
