@@ -230,9 +230,19 @@
         "category": "Peliarviot",
         "url": "alan-wake",
         "date": "2025-08-29T16:00:00Z",
-        "tags": ["Kauhu","Seikkailu","Suomalaiset pelit","Remedy Entertainment"],
+        "tags": ["Kauhu","Seikkailu","Suomipelit","Remedy Entertainment"],
         "ytid" :"JPvPlxVm8U0",
-        "desc": "Kotimainen kauhuseikkailu, joka pohtii todella kiehtovalla tavalla taiteen ja taiteentekijöiden merkitystä"
+        "desc": "Kotimainen kauhuseikkailu, joka pohtii todella kiehtovalla tavalla taiteen ja taiteentekijöiden merkitystä."
+    },
+    {
+        "id": "pa25",
+        "title": "Peliarvio: L.A. Noire",
+        "category": "Peliarviot",
+        "url": "la-noire",
+        "date": "2025-09-26T16:00:00Z",
+        "tags": ["Seikkailu","Rikosmysteerit","Pariskuntapelit"],
+        "ytid" :"6Noor_a4v5I",
+        "desc": "Etsiväseikkailu, jonka keskeiset pelimekaniikat tekevät siitä oivallisen pelin pariskunnalle yhdessä pelattavaksi."
     }
     
     ],
@@ -350,6 +360,15 @@
             "tags": ["KKV","Vaikuttajamarkkinointi","Kritiikki"],
             "ytid" : "AW_VnYjUS40",
             "desc": "Vastineeni KKV:n vaikuttajamarkkinoinnin linjaukseen taidekritiikin näkökulmasta."
+        },
+        {
+            "id": "v9",
+            "title": "'Fortnite-konserteista'",
+            "url": "fortnite-konsertit",
+            "date": "2025-10-17T16:00:00Z",
+            "tags": ["Fortnite","Daft Punk","Virtuaalikonsertit"],
+            "ytid" : "6sUreu4u1iM",
+            "desc": "Tutkivaa kulttuuriantropologiaa: millaisia ovat 'digitaaliset konsertit' Fortnitessa?"
         }
     ]
 }
