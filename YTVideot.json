@@ -250,9 +250,19 @@
         "category": "Peliarviot",
         "url": "emuurom",
         "date": "2026-06-01T16:00:00Z",
-        "tags": ["Seikkailu","Puzzle","TIC-80","Metroidbrainia"],
+        "tags": ["Seikkailu","Puzzle","TIC-80","Metroidbrainia","Indie"],
         "ytid" :"VVgxZJKq6wI",
         "desc": "Kryptinen puzzleseikkailu, jossa pelastetaan uhanalainen ekosysteemi käyttämättä ollenkaan väkivaltaa."
+    },
+    {
+        "id": "pa27",
+        "title": "Peliarvio: Unemployment Simulator 2018",
+        "category": "Peliarviot",
+        "url": "unemployment-simulator-2018",
+        "date": "2026-06-013T16:00:00Z",
+        "tags": ["Indie","Satiiri","Taidepelit"],
+        "ytid" :"bzVSYzBvePs",
+        "desc": "\"Simulaattoripeli\", jossa yritetään selvitä työttömyydestä pohjoismaisessa hyvinvointivaltiossa."
     }
     
     ],
